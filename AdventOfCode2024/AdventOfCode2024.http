@@ -1,0 +1,6 @@
+@AdventOfCode2024_HostAddress = http://localhost:5168
+
+GET {{AdventOfCode2024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
